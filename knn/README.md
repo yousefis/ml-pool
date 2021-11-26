@@ -1,6 +1,6 @@
 
 # Dataset description:
-The dataset has been extracted form a [https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset](kaggle challenge) with the below fields:
+The dataset has been extracted form a [kaggle challenge](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) with the below fields:
 
     age: age in years
     sex:0,1 male female
