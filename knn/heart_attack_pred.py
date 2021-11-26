@@ -1,3 +1,6 @@
+#%%
+
+
 import csv
 import json
 import argparse
@@ -69,3 +72,5 @@ if __name__ == "__main__":
     accuracy = correct_pred/len(x_test)
     print('Accuracy is: %f'%accuracy)
 
+
+#%%
