@@ -1,3 +1,5 @@
+# Goal
+Using KNN for classifying people into two classes of high- and low-risk heart attack by help of their age, sex and cholestoral. 
 
 # Dataset description:
 The dataset has been extracted form a [kaggle challenge](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset) with the below fields:
